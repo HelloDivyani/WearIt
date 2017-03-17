@@ -10,6 +10,9 @@ import android.view.View;
  */
 public class login extends AppCompatActivity
 {
+    // declaring widgets that are used
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
